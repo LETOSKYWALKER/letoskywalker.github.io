@@ -1,16 +1,10 @@
 
-<style>
-.content {
-  max-width: 500px;
-  margin: auto;
-}
-
-</style>
 body {
     background-color: powderblue;
-    <div class="content">
-    <!-- Page content -->
-    </div>
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
 
   }
   h1 {
