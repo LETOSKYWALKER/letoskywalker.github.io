@@ -1,10 +1,17 @@
 
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+
+</style>
 body {
     background-color: powderblue;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+    <div class="content">
+    <!-- Page content -->
+    </div>
+
   }
   h1 {
     color: blue;
@@ -12,4 +19,4 @@ body {
     font-size: 300%;
   }
 
- 
+
